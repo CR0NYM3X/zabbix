@@ -5,6 +5,10 @@
 https://www.zabbix.com/la/download?zabbix=7.4&os_distribution=ubuntu&os_version=24.04&components=proxy&db=pgsql&ws=
 ```
 
+# Documentación 
+```
+https://www.zabbix.com/documentation/current/es/manual
+```
  
 
 ## 🎯 Objetivo de arquitectura
