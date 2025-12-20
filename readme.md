@@ -1,13 +1,13 @@
 
 
-# Instalar Zabbix
+# Links de apoyo
 ```
 https://www.zabbix.com/la/download?zabbix=7.4&os_distribution=ubuntu&os_version=24.04&components=proxy&db=pgsql&ws=
-```
+Documentación Oficial : https://www.zabbix.com/documentation/current/es/manual
+Implementation of TimescaleDB in Zabbix: Benefits, Key Tables, and Installation -> https://www.initmax.com/wiki/implementation-of-timescaledb-in-zabbix/
+Zabbix 7.4 – instructions for installation in 5 minutes -> https://www.initmax.com/wiki/zabbix-7-4-instructions-for-installation-in-5-minutes/
 
-# Documentación 
-```
-https://www.zabbix.com/documentation/current/es/manual
+Curso de Zabbix [Dmitry Lambert] - https://www.youtube.com/watch?v=4CJQTaJKxww&list=PLF7Hh_ikyQDpHiHhXwLtw57OCDF9jn7zL
 ```
  
 
