@@ -243,3 +243,14 @@ apt install zabbix-proxy-pgsql zabbix-agent
 ***
 
 Si quieres, te armo **playbooks Ansible** o **scripts Bash** para desplegar todo en tu entorno (con variables para IPs, usuarios y retenciones) y un checklist de validación post‑instalación. ¿Usarás **Nginx** en lugar de Apache para el frontend o te quedas con `zabbix-apache-conf`?
+
+
+
+
+```
+--- Levantar Zabbix
+systemctl  enable zabbix-server.service
+systemctl  enable zabbix-agent
+systemctl  start zabbix-server.service
+
+```
